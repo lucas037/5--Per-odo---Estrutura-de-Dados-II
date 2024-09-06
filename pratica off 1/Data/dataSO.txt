@@ -1,0 +1,299 @@
+Revisão de Cabo de Fibra Óptica
+Verificação e ajuste de cabos de fibra óptica
+06/08/2024
+07:45:12
+
+Instalação de Câmeras
+Instalação de sistema de câmeras de segurança
+06/08/2024
+07:23:45
+
+Manutenção de Alarme
+Verificação do sistema de alarme de segurança
+06/08/2024
+07:34:20
+
+Reparação de Sistema de Irrigação
+Manutenção do sistema de irrigação do jardim
+06/08/2024
+09:34:54
+
+Limpeza de Dutos
+Limpeza e manutenção dos dutos de ventilação
+06/08/2024
+08:45:34
+
+Pintura de Fachada
+Pintura da fachada do edifício
+06/08/2024
+08:15:45
+
+Reparo de Impressora
+Correção de problemas na impressora principal
+06/08/2024
+15:13:09
+
+Manutenção de Ar-Condicionado
+Limpeza e manutenção das unidades de ar-condicionado
+06/08/2024
+14:12:34
+
+Instalação de Antena
+Configuração e instalação de antena de TV
+06/08/2024
+09:12:34
+
+Ajuste de Ar-Condicionado
+Reconfiguração de ar-condicionado para melhor eficiência
+06/08/2024
+10:23:34
+
+Instalação de Sensor de Movimento
+Configuração de sensores de movimento nas entradas
+06/08/2024
+09:23:01
+
+Reparação de Telhado
+Conserto de vazamentos no telhado
+06/08/2024
+16:45:09
+
+Instalação de Rack de Servidores
+Montagem e instalação de novo rack de servidores
+06/08/2024
+10:45:12
+
+Limpeza de Telhado
+Remoção de detritos e folhas do telhado
+06/08/2024
+08:15:45
+
+Revisão Elétrica
+Verificação e reparo do sistema elétrico
+06/08/2024
+13:34:45
+
+Instalação de Painel Solar
+Instalação de painéis solares no telhado
+06/08/2024
+15:45:09
+
+Troca de Filtros de Água
+Substituição dos filtros de água do prédio
+06/08/2024
+09:45:34
+
+Substituição de Janelas
+Troca de janelas antigas por modelos novos
+06/08/2024
+13:12:01
+
+Pintura de Estacionamento
+Pintura de faixas e sinalização no estacionamento
+06/08/2024
+14:12:34
+
+Revisão de Sistema de Sprinkler
+Verificação e ajuste do sistema de sprinklers
+06/08/2024
+13:34:56
+
+Configuração de Backup
+Configuração de sistema de backup automatizado
+07/08/2024
+09:54:45
+
+Reparação de Computador
+Correção de falhas em estação de trabalho
+07/08/2024
+14:25:37
+
+Reparo de Esgoto
+Desentupimento e reparação de esgoto
+07/08/2024
+08:12:45
+
+Instalação de Rede Interna
+Cabeamento e configuração de rede interna
+07/08/2024
+15:34:23
+
+Ajuste de Portas
+Correção do alinhamento e fechaduras das portas
+07/08/2024
+11:45:12
+
+Instalação de Fechadura Digital
+Configuração e instalação de fechadura digital na entrada principal
+07/08/2024
+14:22:34
+
+Instalação de Projetor
+Configuração e instalação de projetor em sala de reunião
+07/08/2024
+16:22:09
+
+Troca de Iluminação
+Substituição de lâmpadas por LEDs
+07/08/2024
+10:05:12
+
+Reparo de Telefone
+Correção de linhas telefônicas internas
+07/08/2024
+12:14:45
+
+Reparo de Piso de Madeira
+Correção de tábuas soltas e polimento do piso
+07/08/2024
+12:34:01
+
+Instalação de Luzes de Emergência
+Configuração e instalação de luzes de emergência
+07/08/2024
+09:34:01
+
+Instalação de Novo Roteador
+Configuração e instalação de novo roteador corporativo
+07/08/2024
+10:12:56
+
+Troca de Baterias de No-Break
+Substituição de baterias em sistemas de no-break
+07/08/2024
+13:23:34
+
+Atualização de Software
+Instalação de nova versão de software corporativo
+08/08/2024
+16:23:01
+
+Troca de Teclados
+Substituição de teclados em estações de trabalho
+08/08/2024
+14:12:09
+
+Limpeza de Janelas
+Limpeza de janelas externas do prédio
+08/08/2024
+08:25:11
+
+Reparo de Cabos de Rede
+Correção de cabos de rede danificados
+08/08/2024
+15:23:01
+
+Manutenção de Escada Rolante
+Verificação e reparo da escada rolante
+08/08/2024
+16:34:56
+
+Substituição de Ventiladores
+Troca de ventiladores antigos por novos modelos
+08/08/2024
+14:45:22
+
+Troca de Disjuntores
+Substituição de disjuntores danificados
+08/08/2024
+13:13:45
+
+Manutenção de Caldeira
+Verificação de segurança e manutenção da caldeira
+08/08/2024
+07:45:12
+
+Revisão de Cabo de Fibra Óptica
+Verificação e ajuste de cabos de fibra óptica
+08/08/2024
+08:45:22
+
+Limpeza de Equipamentos de TI
+Limpeza e manutenção de computadores e servidores
+08/08/2024
+09:12:23
+
+Manutenção de Jardim
+Corte de grama e poda de árvores
+08/08/2024
+08:55:22
+
+Instalação de Firewall
+Implementação de novo sistema de firewall
+09/08/2024
+12:45:10
+
+Manutenção de Servidor
+Atualização de software e verificação de segurança
+09/08/2024
+11:45:01
+
+Manutenção de Escada Rolante
+Verificação e reparo da escada rolante
+09/08/2024
+16:34:56
+
+Limpeza de Carpete
+Limpeza profunda dos carpetes do escritório
+09/08/2024
+17:45:12
+
+Reparo de Janela Quebrada
+Substituição de vidro quebrado em janela
+09/08/2024
+11:23:12
+
+Configuração de Wi-Fi
+Configuração de roteadores e extensão da rede Wi-Fi
+09/08/2024
+09:11:23
+
+Pintura de Escritório
+Pintura das paredes do escritório principal
+09/08/2024
+11:34:56
+
+Reparo de Sistema de Som
+Correção de problemas no sistema de som do auditório
+09/08/2024
+16:22:45
+
+Instalação de Ar-Condicionado
+Instalação de unidade de ar-condicionado no escritório
+09/08/2024
+08:15:22
+
+Manutenção de Piso
+Reparos no piso do corredor principal
+09/08/2024
+08:45:34
+
+Troca de Disjuntores
+Substituição de disjuntores danificados
+09/08/2024
+10:13:45
+
+Manutenção de Servidor
+Atualização de software e verificação de segurança
+09/08/2024
+11:45:01
+
+Manutenção de Escada Rolante
+Verificação e reparo da escada rolante
+09/08/2024
+16:34:56
+
+Limpeza de Carpete
+Limpeza profunda dos carpetes do escritório
+09/08/2024
+17:45:12
+
+Reparo de Janela Quebrada
+Substituição de vidro quebrado em janela
+09/08/2024
+11:23:12
+
+Configuração de Wi-Fi
+Configuração de roteadores e extensão da rede Wi-Fi
+09/08/2024
+09:11:23
