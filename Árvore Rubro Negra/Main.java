@@ -1,10 +1,20 @@
 class Main {
     public static void main(String[] args) {
-        ArvRN arv = new ArvRN(200);
-        arv.insert(377);
-        arv.insert(198);
-        arv.insert(195);
+        ArvRN arv = new ArvRN(30);
 
-        System.out.println(arv);
+        arv.insert(13);
+        arv.insert(53);
+
+        arv.insert(8);
+        arv.insert(23);
+        arv.insert(43);
+        arv.insert(83);
+
+        arv.insert(63);
+        arv.insert(93);
+
+        //arv.insert(91);
+
+        System.out.println("\n"+arv);
     }
 }

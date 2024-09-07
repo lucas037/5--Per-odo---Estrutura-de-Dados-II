@@ -45,15 +45,71 @@ public class ArvRN {
         if (newNode.parent.parent == null)
             return;
 
-        System.out.println("AJustes!");
-        System.exit(0);
+        adjustPositions(newNode);
+    }
+
+    public void adjustPositions(Node node) {
+        Node uncle;
+
+
+        while (!node.parent.black) {
+            System.out.println("\n"+toString());
+            System.out.println("-\nNode a Corrirgir: "+node+"\n-");
+
+            if (node.parent.parent.right == node.parent) { // pai é filho direito do avô
+                uncle = node.parent.parent.left;
+
+                if (uncle.black) { // pai é vermelho e tio é preto
+
+                    if (node == node.parent.right) { // nó está a direita do pai
+                        node = node.parent;
+                        System.out.println("oiess - arvRN");
+                    }
+                    System.exit(0);
+
+                }
+                else { // pai e tio são vermelhos
+                    node.parent.black = true;
+                    uncle.black = true;
+                    node.parent.parent.black = false;
+                    node = node.parent.parent;
+                }
+            }
+
+            else { // pai é filho esquerdo
+                uncle = node.parent.parent.right;
+
+                if (uncle.black) { // pai é vermelho e tio é preto
+
+                }
+
+                else { // pai e tio são vermelhos
+                    node.parent.black = true;
+                    uncle.black = true;
+                    node.parent.parent.black = false;
+                    node = node.parent.parent;
+                }
+
+
+            }
+
+            System.out.println(toString());
+
+
+            if (node.parent == null) {
+                node.black = true;
+                return;
+            }
+        }
+
     }
 
     public int getHeight() {
-        if (root == null)
-            return 0;
-        
         return root.getHeight(root);
+    }
+
+    public int getTotalHeight() {
+        return root.getTotalHeight(root);
     }
 
     public String toString() {
@@ -68,8 +124,8 @@ public class ArvRN {
             ArrayList<Node> newArray = new ArrayList<>();
 
             for (int i = 0; i < array.size(); i++) {
-
                 Node actNode = array.get(i);
+
                 str += actNode;
 
                 if (array.size() > (i + 1)) {
